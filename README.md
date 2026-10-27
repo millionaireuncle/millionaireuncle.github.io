@@ -11,6 +11,7 @@ assets/site.css                공용 스타일 (라이트·다크)
 <앱>/privacy/index.html        개인정보 처리방침 (한국어)
 <앱>/privacy/en/index.html     Privacy Policy (English)
 <앱>/delete-account/...        계정 삭제 안내 (Google Play가 요구, 계정이 있는 앱만)
+<앱>/licenses/index.html       오픈소스 라이선스 (앱 저장소의 스크립트가 만든다. Flip Voca는 pnpm licenses:page)
 ```
 
 앱 폴더 이름은 짧은 영문 소문자로 한다(`flipvoca`). 주소가 스토어 등록 정보와 앱 설정 화면에 들어가므로 정한 뒤에는 바꾸지 않는다.
