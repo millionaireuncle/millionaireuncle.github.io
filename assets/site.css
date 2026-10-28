@@ -33,7 +33,6 @@ p, li { margin: 6px 0; }
 ul { padding-left: 20px; }
 a { color: var(--link); }
 .meta { color: var(--muted); font-size: 14px; margin: 0 0 24px; }
-.lang { float: right; font-size: 14px; }
 .table { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; font-size: 14px; margin: 8px 0; }
 th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
