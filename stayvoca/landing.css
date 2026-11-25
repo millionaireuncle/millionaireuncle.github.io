@@ -60,6 +60,7 @@ body {
 [lang] { font-family: var(--font); }
 :lang(ko) { word-break: keep-all; }
 :lang(ja), :lang(zh-Hant) { word-break: normal; }
+:lang(ja) { word-break: auto-phrase; }
 h1, h2, p, ul { margin: 0; padding: 0; }
 ul { list-style: none; }
 h1, h2 { font-weight: 700; letter-spacing: -0.035em; text-wrap: balance; }
