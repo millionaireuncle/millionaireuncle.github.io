@@ -7,6 +7,7 @@
 ```
 index.html                     앱 목록 (스토어의 개발자 웹사이트)
 app-ads.txt                    AdMob 판매자 확인. 모든 앱 공용 (AdMob 계정 하나)
+sitemap.xml                    검색엔진용 주소 목록 (Search Console에 제출). 페이지를 추가하거나 고치면 여기도 고친다
 assets/site.css                공용 스타일 (라이트·다크)
 <앱>/privacy/index.html        ko/로 넘기는 페이지 (예전 주소가 스토어와 앱에 들어가 있다)
 <앱>/privacy/ko/index.html     개인정보 처리방침 (한국어)
