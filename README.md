@@ -28,7 +28,7 @@ stayvoca/fonts/                앱 글꼴에서 페이지에 나오는 글자만
 ## 새 앱 추가
 
 1. `stayvoca/`를 복사해 새 앱 폴더를 만들고 내용(수집 항목, 처리 위탁, 시행일)을 고친다.
-2. `index.html` 앱 목록에 추가한다.
+2. `index.html` 앱 목록에 앱 이름(소개 페이지 링크)과 한 줄 설명을 추가한다. 처리방침 같은 링크는 소개 페이지 바닥글에 둔다.
 3. 다른 광고 네트워크나 AdMob 계정을 쓰면 `app-ads.txt`에 줄을 더한다.
 
 `main`에 push하면 1분쯤 뒤 반영된다. Jekyll로 빌드하지만, 맨 위에 front matter(`---`)가 없는 파일은 그대로 내보낸다. include를 쓰는 페이지만 front matter에 `layout: null`을 둔다.
